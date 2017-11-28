@@ -15,7 +15,9 @@
     padding: 0px;
   }
 }
-
+.light-background {
+  background-color: #ffffff;
+}
 .wrapper {
   width: 1000px;
   margin: auto;
